@@ -14,6 +14,7 @@ Will close the active tab (toggle) by this actions:
 - [Live preview][3]
 
 Credits:
+
 • Made by [katie][0]
 
 • Upgraded by [almeidap][1]
